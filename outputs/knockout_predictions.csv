@@ -1,0 +1,33 @@
+match_id,round,date_utc,venue,predicted_home_team,predicted_away_team,predicted_home_goals,predicted_away_goals,corners,yellow_cards,red_cards,match_winner,penalties
+73,Round of 32,2026-06-28 19:00:00,"SoFi Stadium, Los Angeles",South Korea,Canada,1,1,10,3,0,home,True
+74,Round of 32,2026-06-29 17:00:00,"NRG Stadium, Houston",Brazil,Japan,1,1,11,4,0,home,True
+75,Round of 32,2026-06-29 20:30:00,"Gillette Stadium, Boston",Germany,Scotland,1,1,11,3,0,home,True
+76,Round of 32,2026-06-30 01:00:00,"Estadio BBVA, Monterrey",Netherlands,Morocco,1,1,11,2,0,home,True
+77,Round of 32,2026-06-30 17:00:00,"AT&T Stadium, Dallas",Ecuador,Norway,1,1,11,3,0,away,True
+78,Round of 32,2026-06-30 21:00:00,"MetLife Stadium, East Rutherford",France,Egypt,2,2,11,2,0,home,True
+79,Round of 32,2026-07-01 01:00:00,"Estadio Azteca, Mexico City",Mexico,Senegal,1,1,10,4,0,home,True
+80,Round of 32,2026-07-01 16:00:00,"Mercedes-Benz Stadium, Atlanta",England,Uzbekistan,2,2,11,3,0,home,True
+81,Round of 32,2026-07-01 20:00:00,"Lumen Field, Seattle",Belgium,UEFA Playoff D,2,2,11,3,0,home,True
+82,Round of 32,2026-07-02 00:00:00,"Levi's Stadium, Santa Clara",USA,UEFA Playoff A,2,2,11,3,0,home,True
+83,Round of 32,2026-07-02 19:00:00,"BMO Field, Toronto",Colombia,Croatia,1,1,11,3,0,home,True
+84,Round of 32,2026-07-02 23:00:00,"SoFi Stadium, Los Angeles",Spain,Austria,2,2,11,3,0,home,True
+85,Round of 32,2026-07-03 03:00:00,"BC Place, Vancouver",Switzerland,Egypt,1,1,10,2,0,home,True
+86,Round of 32,2026-07-03 18:00:00,"AT&T Stadium, Dallas",Paraguay,Iran,1,1,10,3,0,away,True
+87,Round of 32,2026-07-03 22:00:00,"Hard Rock Stadium, Miami",Argentina,Uruguay,1,1,11,6,0,home,True
+88,Round of 32,2026-07-04 01:30:00,"GEHA Field at Arrowhead Stadium, Kansas City",Portugal,Uzbekistan,2,1,11,2,0,home,False
+89,Round of 16,2026-07-04 17:00:00,"NRG Stadium, Houston",South Korea,Germany,1,1,11,3,0,away,True
+90,Round of 16,2026-07-04 21:00:00,"Lincoln Financial Field, Philadelphia",Brazil,Norway,1,1,11,3,0,home,True
+91,Round of 16,2026-07-05 20:00:00,"MetLife Stadium, East Rutherford",Netherlands,France,1,1,11,3,0,away,True
+92,Round of 16,2026-07-06 00:00:00,"Estadio Azteca, Mexico City",Mexico,England,2,2,11,3,0,away,True
+93,Round of 16,2026-07-06 19:00:00,"AT&T Stadium, Dallas",Portugal,Spain,1,1,11,5,0,away,True
+94,Round of 16,2026-07-07 00:00:00,"Lumen Field, Seattle",Belgium,USA,2,2,11,4,0,home,True
+95,Round of 16,2026-07-07 16:00:00,"Mercedes-Benz Stadium, Atlanta",Iran,Portugal,1,1,11,3,0,away,True
+96,Round of 16,2026-07-07 20:00:00,"BC Place, Vancouver",Switzerland,Argentina,1,1,11,4,0,away,True
+97,Quarter-final,2026-07-09 20:00:00,"Gillette Stadium, Boston",Germany,Brazil,1,1,11,4,0,home,True
+98,Quarter-final,2026-07-10 19:00:00,"SoFi Stadium, Los Angeles",Spain,Belgium,2,2,11,3,0,home,True
+99,Quarter-final,2026-07-11 21:00:00,"Hard Rock Stadium, Miami",France,England,1,1,11,3,0,away,True
+100,Quarter-final,2026-07-12 01:00:00,"GEHA Field at Arrowhead Stadium, Kansas City",Portugal,Argentina,1,1,11,4,0,away,True
+101,Semi-final,2026-07-14 19:00:00,"AT&T Stadium, Dallas",Germany,Spain,2,2,11,5,0,away,True
+102,Semi-final,2026-07-15 19:00:00,"Mercedes-Benz Stadium, Atlanta",England,Argentina,1,1,11,5,0,away,True
+103,Third-place playoff,2026-07-18 21:00:00,"Hard Rock Stadium, Miami",Germany,Argentina,1,1,11,4,0,away,True
+104,Final,2026-07-19 19:00:00,"MetLife Stadium, East Rutherford",Spain,England,1,1,11,4,0,home,True
