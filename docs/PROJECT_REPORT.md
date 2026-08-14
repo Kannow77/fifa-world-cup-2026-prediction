@@ -74,6 +74,12 @@ Spain is the model's leading candidate, not an overwhelming favorite. Its probab
 
 The result is driven by the combined team-strength profile, including Elo, rankings, recent performance and tournament features—not by a manually selected winner.
 
+### Post-tournament validation
+
+Spain subsequently won the tournament, defeating Argentina 1–0 in the final on 19 July 2026 ([FIFA match report](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-argentina-final-report-highlights)). The model's top-ranked champion prediction was therefore correct.
+
+This result should be interpreted precisely. The model correctly selected the winner, but its representative bracket predicted England as Spain's final opponent, a 1–1 score and a Spanish win on penalties. It did not predict the full final matchup or score correctly. A single successful tournament-winner prediction is encouraging portfolio evidence, but it is not sufficient by itself to establish general model accuracy; repeated out-of-time backtesting remains necessary.
+
 ## 7. Limitations and next steps
 
 - Replace playoff placeholders once the qualified teams are known.
@@ -86,4 +92,3 @@ The result is driven by the combined team-strength profile, including Elo, ranki
 ## 8. Responsible use
 
 The predictions are an analytical exercise and should not be treated as certain outcomes or financial/betting advice. Results depend on the supplied fixtures, the available source snapshots, modeling assumptions and random simulation.
-

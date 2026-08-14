@@ -10,6 +10,12 @@ The model ranked **Spain as the most likely champion**, with a **16.26% champion
 
 > This is a probabilistic model output, not a guarantee. A 16.26% probability also means the model expected another team to win in most simulations.
 
+## Prediction validated: champion correctly identified
+
+**Spain went on to win the 2026 FIFA World Cup.** On 19 July 2026, Spain defeated Argentina 1–0 in the final and became world champion for the second time ([official FIFA match report](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-argentina-final-report-highlights)).
+
+The model therefore correctly identified the eventual champion as its highest-ranked candidate before the tournament outcome was known. It did **not** predict the complete final correctly: the representative bracket selected England rather than Argentina as Spain's opponent and predicted a penalty decision rather than the actual 1–0 result. This is a successful winner prediction, not a claim of perfect tournament accuracy.
+
 ## Project highlights
 
 - Cleaned and standardized 49,000+ historical international matches
@@ -87,9 +93,8 @@ Please consult each upstream source for its own terms and attribution requiremen
 
 ## Skills demonstrated
 
-Python, pandas, NumPy, data cleaning, exploratory analysis, feature engineering, time-series validation, classification, regression, ensemble learning, Monte Carlo simulation, data visualization and reproducible reporting.
+Python, pandas, NumPy, data cleaning, exploratory analysis, feature engineering, time-series validation, classification, regression, ensemble learning, Monte Carlo simulation, post-event validation, data visualization and reproducible reporting.
 
 ## Author
 
 **Omarijbaril** — aspiring Data Analyst and Machine Learning practitioner.
-
